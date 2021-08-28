@@ -30,7 +30,8 @@ To acces this project, you need to clone it using these steps;
 
 1. HTML(Hypertext Mark-up Language)
 2. CSS (Cascading Style Sheet)
-3. Git
+3. Bootstrap
+4. Git
 
 ### Live Site
 Go to  [live](https://robbingit.github.io/StreetFood-website/) site
