@@ -1,10 +1,10 @@
-# StreetFood-website
+# My portfolio landing page-website
 
 ## Author
 Robbin Mwangi Githimbo
 
 ## Description and Requirements
-This is a simple design of Street Foods webdesign including; a list of foods and drinks offered, contact information and an option to subscribe to the emails newsletters.
+This is a simple design of my portfolio webdesign including; my skills, my profile photo, shot descriptiona bout me and links of previously done projects.
 
 The following are requirements in order to continue....
 
@@ -16,12 +16,13 @@ The following are requirements in order to continue....
    -  And Install git using this command:
         `$ sudo apt install git-all`
 * You can see all steps by following this link `https://github.com/git-guides/install-git`
+* you will need to be familiar with bootstrap.
 
 ### Setup/Installation 
 To acces this project, you need to clone it using these steps;
 1. Open your terminal command prompt for windows.
 2. Change the current working directory to the location where you want the cloned directory.
-3. Type `$ git clone https://github.com/RobbinGIT/StreetFood-website.git`
+3. Type `$ git clone https://github.com/RobbinGIT/portfoliolandingpage.git`
 4. `Enter` to create your local clone.
     * This will clone the repositoty into your local folder in your laptop.
 
