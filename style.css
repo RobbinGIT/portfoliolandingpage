@@ -199,7 +199,7 @@ body {
 }
 /* end of my skills section */
 
-/* start of footer section */
+/*-------footer section----*/
 #footer{
     margin-top: 20px;
     color: #fff;
@@ -244,5 +244,3 @@ hr{
  padding-bottom: 20px;
  text-align: center;
 }
-
-/* end of footer */
