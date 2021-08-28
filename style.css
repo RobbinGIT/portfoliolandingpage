@@ -19,3 +19,80 @@ body {
 .navbar-brand img{
     border-radius: 50%;
 }
+ /* end of navbar */
+
+ /* start of second section */ 
+
+ /*----------banner section------*/
+.para{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+ }
+ 
+#banner{
+    background: #328488;
+    color: #fff;
+    
+}
+.promo-title{
+    font-size: 28px;
+    font-weight: 500;
+    margin-top: 50px;
+}
+
+.play-btn{
+    width: 100px;
+
+}
+.container{
+    background: #0C3F58;
+
+}
+
+#banner a{
+    color: #fff;
+    text-decoration: none;
+}
+.img-fluid{
+    border-radius: 48%;
+    margin-bottom: 0.5em;
+}
+
+/* end of banner */
+
+/* projects */
+.projects{
+    width: 82%;
+    margin: auto;
+}
+#services{
+    padding: 80px 0;
+    
+    
+}
+.projects-link{
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.services {
+    padding: 20px;
+}
+.services h4{
+    padding:5px;
+    margin:25px;
+    text-transform:uppercase;
+} 
+
+#services .btn-primary{
+    box-shadow:none;
+    padding:8px 20px;
+    border: none;
+    border-radius:50px;
+}
+#projects{
+    border-radius: solid 2px white;
+}
+
+/* end of second section */
