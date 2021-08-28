@@ -139,6 +139,7 @@ body {
     position: absolute;
     background: #372f66;
     bottom: 0;
+    border-radius: 50px;
 }
 .skill-bar {
     width: 100%;
@@ -146,6 +147,7 @@ body {
     background:#26db26;
     display: block;
     position: relative;
+    border-radius: 50px;
 }
 
 /* SKILL 1 */
@@ -161,6 +163,7 @@ body {
     font-size: 15px;
     padding: 2px 0;
     font-weight: 500;
+    
 }
 .skill-bar {
     position: relative;
