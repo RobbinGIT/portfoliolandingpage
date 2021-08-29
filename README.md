@@ -35,7 +35,7 @@ To acces this project, you need to clone it using these steps;
 5. Figma (for design)  
 
 ### Design
-Go to [live] (https://www.figma.com/file/GXxdbncOd4N1hdnBQounsC/Untitled?node-id=0%3A1)
+Go to [Design] (https://www.figma.com/file/GXxdbncOd4N1hdnBQounsC/Untitled?node-id=0%3A1)
 
 ### Live Site
 Go to  [live](https://robbingit.github.io/StreetFood-website/) site
