@@ -62,8 +62,10 @@ body {
     text-decoration: none;
 }
 .img-fluid{
-    border-radius: 48%;
-    margin-bottom: 0.5em;
+    border-radius: 10%;
+    margin-bottom: 2em;
+    height: 400px;
+    width: 300px;
 }
 
 /* end of banner */
@@ -135,7 +137,7 @@ body {
 .skill > p {
     font-size: 18px;
     font-weight: 700;
-    color: #1a1716;
+    color: #C4C4C4;
     margin: 0;
 }
 .skill:before{
