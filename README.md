@@ -38,7 +38,7 @@ To acces this project, you need to clone it using these steps;
 Go to [Design] (https://www.figma.com/file/GXxdbncOd4N1hdnBQounsC/Untitled?node-id=0%3A1)
 
 ### Live Site
-Go to  [live](https://robbingit.github.io/StreetFood-website/) site
+Go to  [live]( https://robbingit.github.io/portfoliolandingpage/) site
 
 ### Licence
 This project is under the  [MIT](LICENSE) licence:<br>
